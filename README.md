@@ -27,7 +27,7 @@ ai-fraud-detection/
 ├── notebooks/                 # Optional Jupyter notebooks
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
-└── LICENSE
+
 
 
 yaml
