@@ -12,7 +12,7 @@ This project demonstrates how AI can automate real corporate work in detecting f
 * Model training with LightGBM and RandomForest
 * Model evaluation with Precision, Recall, F1, ROC-AUC, PR-AUC
 * SHAP-based interpretability
-* Professional GitHub folder structure
+
 
 ---
 
