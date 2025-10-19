@@ -19,7 +19,16 @@ This project demonstrates how AI can automate real corporate work in detecting f
 ## 📂 Folder Structure
 
 ai-fraud-detection/
-├── data/ ├── notebooks/ ├── src/ ├── models/ ├── requirements.txt └── README.md
+├── data/                      # Your CSV dataset
+│   └── transactions.csv
+├── models/                    # Trained models saved here
+├── src/                       # Source code scripts
+│   └── fraud_detection_demo.py
+├── notebooks/                 # Optional Jupyter notebooks
+├── requirements.txt           # Python dependencies
+├── README.md                  # This file
+└── LICENSE
+
 
 yaml
 Copy code
@@ -50,6 +59,8 @@ Save models to the models/ folder
 
 📊 Next Steps
 Replace synthetic data with real anonymized transaction data
+
+Run src/fraud_detection_1.py with the new data.csv ( change the path in code )
 
 Tune classification thresholds based on business cost
 
