@@ -19,12 +19,7 @@ This project demonstrates how AI can automate real corporate work in detecting f
 ## 📂 Folder Structure
 
 ai-fraud-detection/
-├── data/ # CSV dataset or synthetic data
-├── notebooks/ # Optional Jupyter notebooks
-├── src/ # Source code scripts
-├── models/ # Trained models saved here
-├── requirements.txt # Python dependencies
-└── README.md # This file
+├── data/ ├── notebooks/ ├── src/ ├── models/ ├── requirements.txt └── README.md
 
 yaml
 Copy code
