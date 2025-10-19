@@ -64,3 +64,8 @@ This will:
 * Run `src/fraud_detection_1.py` with the new `data.csv` (update the path in code)
 * Tune classification thresholds based on business cost
 * Deploy using FastAPI or Flask for real-time prediction
+* Replace SMOTE with more advanced techniques (ADASYN, class-weighting, focal loss)
+* Add temporal cross-validation (time-series split) to avoid leakage
+* Build a streaming scoring microservice (Flask/FastAPI) that loads the saved model
+* Build a simple UI to display alerts and SHAP explanations for investigators
+* Add cost-sensitive learning: incorporate business cost matrix into model selection/thresholding
